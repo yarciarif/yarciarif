@@ -11,10 +11,12 @@ Here are some ideas to get you started:
 ### Language and Tools:
 <!--<p align="center">
   <a href="https://skillicons.dev">
-  </a>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
+</a>
 </p>
 -->
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,react,visualstudiocode,flutter&perline=3)](https://skillicons.dev)
 
 
 
