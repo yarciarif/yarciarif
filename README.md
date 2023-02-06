@@ -1,4 +1,4 @@
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/Ai.gif))
+![](https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/Ai.gif)
 ### Hi there I'm Arif 👋
 ### Developer and Willing to learn 
 
