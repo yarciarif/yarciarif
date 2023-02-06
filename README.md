@@ -9,11 +9,13 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with Fluttter developer job
 
 ### Language and Tools:
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
   </a>
 </p>
+-->
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yarciarif) 
