@@ -8,11 +8,10 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning Mobile Platform 
 * 🤔 I’m looking for help with Fluttter developer job
 
-### Language and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light)](https://skillicons.dev)
 <p align="center">
+### Language and Tools:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
   </a>
 </p>
 
