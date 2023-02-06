@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,react,visualstudiocode,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,dart,js,laravel,firebase,git,github,bootstrap,postman,sqlite,stackoverflow,vscode&theme=light)](https://skillicons.dev)
 
 
 
