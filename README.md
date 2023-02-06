@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,react,visualstudiocode,flutter&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,react,visualstudiocode,flutter&theme=light)](https://skillicons.dev)
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yarciarif) 
