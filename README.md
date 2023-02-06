@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there I'm Arif 👋
+### Developer and Willing to learn
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Firebase,Flutter,StateManagement(BLOC,PROVIDER,RIVERPOD)
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ..
+* 🔭 I’m currently working on Firebase,Flutter,StateManagement(BLOC,PROVIDER,RIVERPOD)
+* 🌱 I’m currently learning Mobile Platform 
+* 🤔 I’m looking for help with Fluttter developer job
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
