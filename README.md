@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter" />
   </a>
 </p>
 
