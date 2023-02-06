@@ -1,8 +1,5 @@
 ### Hi there I'm Arif 👋
-### Developer and Willing to learn
-
-
-Here are some ideas to get you started:
+### Developer and Willing to learn 
 
 * 🔭 I’m currently working on Firebase,Flutter,StateManagement(BLOC,PROVIDER,RIVERPOD)
 * 🌱 I’m currently learning Mobile Platform 
