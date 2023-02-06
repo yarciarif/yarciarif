@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with Fluttter developer job
 
 ### Language and Tools:
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,flutter&theme=light)](https://skillicons.dev)
-
+</p>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yarciarif) 
