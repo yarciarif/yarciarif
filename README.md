@@ -14,7 +14,7 @@
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,dart,js,laravel,firebase,git,github,bootstrap,postman,sqlite,stackoverflow,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,dart,js,firebase,git,github,bootstrap,postman,stackoverflow,vscode&theme=light)](https://skillicons.dev)
 
 
 ### Contact With Me:
