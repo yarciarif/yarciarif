@@ -2,7 +2,7 @@
 ### Hi there I'm Arif 👋
 ### Developer and Willing to learn 
 
-* 🔭 I’m currently working on Firebase,Flutter,StateManagement(BLOC,PROVIDER,RIVERPOD)
+* 🔭 I’m currently working on Firebase,Flutter,StateManagement(GETX,BLOC,PROVIDER,RIVERPOD)
 * 🌱 I’m currently learning Mobile Platform 
 * 🤔 I’m looking for help with Fluttter developer job
 
