@@ -1,4 +1,4 @@
-![](https://camo.githubusercontent.com/895e64220a8eeae3e46f7c4bb5421c2e1cfa7e0cfb17c285f39c4bb718a23227/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3249756455486449303735484c3032506b6b2f67697068792e676966)
+![](alignhttps://camo.githubusercontent.com/895e64220a8eeae3e46f7c4bb5421c2e1cfa7e0cfb17c285f39c4bb718a23227/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3249756455486449303735484c3032506b6b2f67697068792e676966)
 ### Hi there I'm Arif 👋
 ### Developer and Willing to learn 
 
@@ -22,3 +22,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F10188?style=flat-quare&labelColor=F10188&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yarciarif) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@arifyarci) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-quare&labelColor=1D9BF0&logo=Blogger&logoColor=white&link=link)](https://twitter.com/yarciarif)
+[![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-yarc%C4%B1-b3622310a/)
