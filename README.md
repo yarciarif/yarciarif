@@ -22,4 +22,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F10188?style=flat-quare&labelColor=F10188&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yarciarif) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@arifyarci) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-quare&labelColor=1D9BF0&logo=Medium&logoColor=white&link=link)](https://twitter.com/yarciarif)
-[![Linkedln Badge](https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-quare&labelColor=1D9BF0&logo=Medium&logoColor=white&link=link)]([https://twitter.com/yarciarif](https://www.linkedin.com/in/arif-yarc%C4%B1-b3622310a/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1D9BF0?style=flat-quare&labelColor=1D9BF0&logo=Medium&logoColor=white&link=link)]([https://twitter.com/yarciarif](https://www.linkedin.com/in/arif-yarc%C4%B1-b3622310a/))
