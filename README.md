@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Arif. I build IT systems & tools!" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Merhaba!%20Ben%20Arif&fontSize=40&fontColor=ffffff" />
+  <img width="80%" alt="Hello, I'm Arif. I build IT systems & tools!" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Hello!%20I'm%20Arif&fontSize=40&fontColor=ffffff" />
 </p>
 
 <br />
