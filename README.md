@@ -4,15 +4,16 @@
 
 <br />
 
-I'm a **Software Engineer & Developer** from Türkiye 🇹🇷  
+I'm a **Software Engineer & Developer**
 
 ---
 
 ### 🔥 Skills & Tools
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.iso.org/standard/63555.html)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.microsoft.com/tr-tr/sql-server/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
@@ -24,9 +25,9 @@ I'm a **Software Engineer & Developer** from Türkiye 🇹🇷
 - 💼 Working on **IT Infrastructure & Automation**  
 - ⚙️ Interested in **Virtualization, Business Process Management, SQL Databases, System Architecture**  
 - 📱 Developing **Mobile Apps with Flutter**  
-- 💻 Building **Desktop Applications with C# & .NET**  
+- 💻 Building **Desktop Applications with C#, .NET & Visual Basic**  
 - 📈 Creating custom solutions for **data management & reporting**  
-- ❤️ Love coding with **C#, .NET, Flutter, and SQL**  
+- ❤️ Love coding with **C#, .NET, Flutter, Visual Basic, and SQL**  
 - 💬 Ask me about IT systems, optimization, and database tricks  
 
 ---
