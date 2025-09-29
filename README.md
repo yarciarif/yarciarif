@@ -16,8 +16,6 @@ I'm a **Software Engineer & Developer** from Türkiye 🇹🇷
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Virtualization](https://img.shields.io/badge/Virtualization-008080?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 ---
 
