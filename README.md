@@ -6,38 +6,50 @@
 
 I'm a **Software Engineer & Developer** from Türkiye 🇹🇷  
 
-**About me**
+---
 
-- 💼 Working on **IT Infrastructure & Automation**
-- ⚙️ Interested in **Virtualization, Business Process Management, SQL Databases, System Architecture**
-- 📈 Building custom solutions for **data management & reporting**
-- ❤️ Love coding with **C#, .NET, and SQL**
-- 💬 Ask me about IT systems, optimization, and database tricks
+### 🔥 Skills & Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Virtualization](https://img.shields.io/badge/Virtualization-008080?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
-**Technologies I use**
+### 👨‍💻 About me
 
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" alt="azure" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="20" alt="virtualization" src="https://img.icons8.com/color/48/000000/virtual-machine.png"></code>
+- 💼 Working on **IT Infrastructure & Automation**  
+- ⚙️ Interested in **Virtualization, Business Process Management, SQL Databases, System Architecture**  
+- 📱 Developing **Mobile Apps with Flutter**  
+- 💻 Building **Desktop Applications with C# & .NET**  
+- 📈 Creating custom solutions for **data management & reporting**  
+- ❤️ Love coding with **C#, .NET, Flutter, and SQL**  
+- 💬 Ask me about IT systems, optimization, and database tricks  
 
 ---
+
+### 📊 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yarciarif&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Arif's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarciarif&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Featured Projects
+---
 
-<a href="https://github.com/yarciarif/VeritabaniOtomasyon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=VeritabaniOtomasyon&theme=tokyonight" />
-</a>
-<a href="https://github.com/yarciarif/ExcelMakroTools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=ExcelMakroTools&theme=tokyonight" />
-</a>
+### 🚀 Featured Projects
+
+- 🗄️ [Veritabanı Otomasyon Sistemi](https://yourwebsite.com/veritabani-otomasyon)  
+  SQL tabanlı veri yönetim ve raporlama çözümü  
+
+- 📊 [Excel Makro Tools](https://yourwebsite.com/excel-tools)  
+  Excel üzerinde makro tabanlı otomasyon araçları  
+
+- 📱 [Flutter App Samples](https://yourwebsite.com/flutter-apps)  
+  Mobil uygulama geliştirme örnekleri ve yayınlanan projeler  
 
 ---
 
